@@ -6,14 +6,14 @@ Las solicitudes de información fueron recuperadas del Sistema de Capturas de Re
 
 La estructura es la siguiente: 
 * clasificacion 
-+ Est carpeta tiene archivos html en donde se muestran las tablas resumen con distintos parámetros.
+  + Esta carpeta tiene archivos html en donde se muestran las tablas resumen con distintos parámetros.
 * graficas
-+ Como su nombre se indica, aquí están las visualizaciones de los datos.
+  + Como su nombre se indica, aquí están las visualizaciones de los datos.
 * solicitudes
-+ En esta carpeta están todos los datos.
-- Por año desagregado por sujeto obligado.
-- Archivos con el agregado por año.
-- Una base de datos con todas las observaciones.
+  + En esta carpeta están todos los datos.
+  - Por año desagregado por sujeto obligado.
+  - Archivos con el agregado por año.
+  - Una base de datos con todas las observaciones.
 
 Es importante mencionar que todos los archivos son xlsx. Además, todos los análisis y visualizaciones están realizadas con el softare estadístico R.
 
